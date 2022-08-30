@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-image: url(./image/banner2.webp);
+    background-size: cover;
+    
+    
+}
+.header h1{
+    color: black;
+    text-align: center;
+}
+
+
